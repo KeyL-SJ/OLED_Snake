@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="C8T6_OLED_Snake" targetName="C8T6_OLED_Snake.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="678fcd47-5f52-41e6-8567-2d201a009c78" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="2GcFkxeSNXFCd3Yz4OixZOoKclF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.cidr.embedded.config" />
+  </component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.OCD C8T6_OLED_Snake">
+    <configuration name="C8T6_OLED_Snake.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C8T6_OLED_Snake" TARGET_NAME="C8T6_OLED_Snake.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C8T6_OLED_Snake" RUN_TARGET_NAME="C8T6_OLED_Snake.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.C8T6_OLED_Snake.elf" />
+      <item itemvalue="OpenOCD 下载并运行.OCD C8T6_OLED_Snake" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="678fcd47-5f52-41e6-8567-2d201a009c78" name="默认的" comment="" />
+      <created>1666680121712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666680121712</updated>
+      <workItem from="1666680153775" duration="2854000" />
+      <workItem from="1666758962577" duration="5462000" />
+      <workItem from="1666765196257" duration="23439000" />
+      <workItem from="1666867969492" duration="1737000" />
+      <workItem from="1667783265666" duration="2265000" />
+      <workItem from="1667986604823" duration="12305000" />
+      <workItem from="1668073406727" duration="12436000" />
+      <workItem from="1668327370132" duration="1195000" />
+      <workItem from="1668329478617" duration="1656000" />
+      <workItem from="1668406422018" duration="7679000" />
+      <workItem from="1668844625520" duration="40000" />
+      <workItem from="1682132405638" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1666764977277">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="690" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1536.816/0.0.1920.1032@0.0.1920.1032" timestamp="1666764977277" />
+    <state x="652" y="266" key="FileChooserDialogImpl" timestamp="1668844667615">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="652" y="266" key="FileChooserDialogImpl/1920.0.1536.816/0.0.1920.1032@0.0.1920.1032" timestamp="1668844667615" />
+    <state x="531" y="234" key="run.anything.popup" timestamp="1668075836717">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1666681831361" />
+    <state x="531" y="234" key="run.anything.popup/1920.0.1536.816/0.0.1920.1032@0.0.1920.1032" timestamp="1668075836717" />
+    <state x="834" y="208" width="672" height="537" key="search.everywhere.popup" timestamp="1668327941501">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="834" y="208" width="672" height="537" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1668327941501" />
+    <state x="1042" y="263" width="672" height="678" key="search.everywhere.popup/1920.0.1536.816/0.0.1920.1032@0.0.1920.1032" timestamp="1667988343056" />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+# OLED_Snake
+基于STM32F103C8T6单片机的贪吃蛇游戏，使用STM32CuBeMX+Clion开发，使用两个带编码器的步进电机控制贪吃蛇运动
